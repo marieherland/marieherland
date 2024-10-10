@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marieherland, a software developer at Visma Enterprise
 - 👀 I’m interested in ✨ everything ✨
-- 🌱 I’m currently learning Concept and Java
+- 🌱 I’m currently learning Concept, Java and Svelte
 - 📫 How to reach me: Here or on Slack!
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love creative work, both crafts and in programming
